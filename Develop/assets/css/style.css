@@ -205,3 +205,9 @@ footer {
 footer h2 {
     font-size: 20px;
 }
+
+footer p{
+    position: relative;
+    bottom: 20px;
+    color: #ffffff;
+}
