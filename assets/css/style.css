@@ -42,7 +42,7 @@ header nav ul li {
     display: inline-block;
     margin-left: 25px;
 }
-
+/* This is adds hover over action to list elements in "Navbar" */
 header nav ul li:hover{
     font-size: larger;
 
