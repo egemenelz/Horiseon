@@ -1,6 +1,6 @@
-# Horiseon is follows accesibility standards for finding easily on search engines
+# Horiseon Follows Accessibility Standards to Make It Easy to Find on Search Engines
 
-## Inside this project you can find articles for;
+## Inside This Project Can Be Found ;
 
 ```
 * Search Engine Optimization
@@ -21,3 +21,6 @@
 * HTML
 * CSS
 ```
+
+## This Project Also Can be Reach At; 
+- https://egemenelz.github.io/Horiseon/#
